@@ -4,7 +4,7 @@ This project demonstrates how **ACID properties** (Atomicity, Consistency, Isola
 
 ---
 
-### 🏛️ ACID Properties Implementation
+### ACID Properties Implementation
 
 #### 1. Atomicity ("All-or-Nothing")
 Ensured by the `@Transactional` annotation. When a multi-step operation (e.g., a banking transfer) runs, any unexpected `RuntimeException` triggers an automatic rollback. Either all database operations succeed together, or the entire transaction resets to its original state.
