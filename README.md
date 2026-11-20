@@ -1,4 +1,4 @@
-# ACID Properties in Spring Boot 🔬
+# ACID Properties in Spring Boot 
 
 This project demonstrates how **ACID properties** (Atomicity, Consistency, Isolation, and Durability) are implemented and managed using **Spring Boot**, **Spring Data JPA**, and the `@Transactional` annotation.
 
