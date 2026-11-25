@@ -3,7 +3,6 @@
 This project demonstrates how **ACID properties** (Atomicity, Consistency, Isolation, and Durability) are implemented and managed using **Spring Boot**, **Spring Data JPA**, and the `@Transactional` annotation.
 
 ---
-
 ### ACID Properties Implementation
 
 #### 1. Atomicity ("All-or-Nothing")
